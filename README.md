@@ -1,0 +1,1 @@
+# __vue-value-shorthanded
