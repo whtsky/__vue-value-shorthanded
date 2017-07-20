@@ -1,0 +1,17 @@
+{
+  "name": "__vue-value-shorthanded",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:whtsky/__vue-value-shorthanded.git",
+  "author": "Wu Haotian <whtsky@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "vue build demo.js"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.2"
+  },
+  "dependencies": {
+    "vue": "^2.4.1"
+  }
+}
